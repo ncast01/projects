@@ -17,3 +17,5 @@ The R markdown includes the following processes:
 * Network Creation with igraph
 * Network Comparison
 * Network Centralization Measures
+
+![socialNetworks](https://user-images.githubusercontent.com/81027917/111991296-88617200-8aea-11eb-8fcc-99efc74ca8b6.PNG)
